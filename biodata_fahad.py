@@ -8,8 +8,8 @@ alamat = "Perum pisma seruni Gamer"
 kota = "Pekalongan"
 
 print("Nama Lengkap  :", nama)
-print("Alamat        :", alamat, "\n                Kota ", kota)provisi
+print("Alamat        :", alamat, "\n                Kota ", kota)
 print("Hobi          :", hobi)
-
+csacascsa
 print("=======================================")
 
