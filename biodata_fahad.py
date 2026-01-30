@@ -8,7 +8,7 @@ alamat = "Perum pisma seruni Gamer"
 kota = "Pekalongan"
 
 print("Nama Lengkap  :", nama)
-print("Alamat        :", alamat, "\n                Kota ", kota)
+print("Alamat        :", alamat, "\n                Kota ", kota)provisi
 print("Hobi          :", hobi)
 
 print("=======================================")
